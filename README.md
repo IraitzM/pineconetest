@@ -1,2 +1,4 @@
-# pineconetest
-Simple project testing Pinecone's VectorDB
+# Pinecone test
+Simple project testing Pinecone's vector database
+
+https://www.pinecone.io/
